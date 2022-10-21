@@ -1,0 +1,15 @@
+
+//****************
+
+    Splash Tutorial
+    Date : 19 / 10 / 2022
+
+    Stpes:
+
+    1) create vector asset from drawable for imageView
+    2) create splash activity xml design
+    3) create anim folder inside res
+    4) create new animation_xml file
+    5) then code for Splash activity java
+    6) change starting activty from Manifest file
+    -----------------------------------------------------------
